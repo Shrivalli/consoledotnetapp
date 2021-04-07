@@ -6,6 +6,7 @@ namespace FirstApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("New Line Added");
             Console.WriteLine("Hello World!");
             Employee e1 = new Employee();
             e1.Empname = "Radha";
